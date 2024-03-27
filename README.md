@@ -4,6 +4,7 @@ Py-Pong is a classic Pong game implemented in Python using the Turtle module.
 Overview
 
 Py-Pong is a recreation of the classic Pong game, where players control paddles to hit a ball back and forth across the screen. The goal is to prevent the ball from passing beyond your paddle while trying to score points by making the ball pass beyond the opponent's paddle.
+
 Key Features:
 
   Paddle Movement: Players control the movement of their paddles using designated keys.
